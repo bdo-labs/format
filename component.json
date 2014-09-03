@@ -1,8 +1,9 @@
 {
   "name": "format",
-  "repo": "heavyk/format",
+  "repo": "bdo-labs/format",
   "description": "printf-like formatting for JavaScript",
-  "version": "0.1.4",
+  "version": "0.1.5",
+  "main": "index.js",
   "scripts": [
     "index.js"
   ]
